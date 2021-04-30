@@ -744,34 +744,34 @@ windows.playerlist.ban 您确定要将｛0｝禁赛吗?
 windows.playerlist.flag 您确定您要标记｛0｝为外挂用户吗?
 windows.playerlist.unflag 您确定您要取消标记｛0｝吗?
 windows.playerlist.punish 您确定您要对｛0｝采取措施吗?
-item.view.open Open Model Viewer
-item.view.more More Information
-item.sell.cant Item cant be sold.
-item.sell.quick Are you sure you want to Quick Sell {0}?
-social.profile.stats Overall Stats
-social.profile.class Class Stats
-social.profile.sales Sales
-social.profile.sales.market Market Sales
-social.profile.skins Skins [{0}]
-social.profile.skins.none No published Skins from this user
-social.profile.games Games [{0}]
-social.profile.games.none No published Games from this user
-social.profile.assets Assets [{0}]
-social.profile.assets.none No published Assets from this user
-social.profile.mods Mods [{0}]
-social.profile.mods.none No published Mods from this user
-social.search Search Results
-social.market.stats.rare Rarest Items
-social.market.stats.circulation In Circulation
-social.market.stats.units units Worldwide
-social.trades.in Incoming
-social.trades.in.head Incoming Offers ({0})
-social.trades.out Outgoing
-social.trades.out.head Outgoing Offers ({0})
-social.trades.history History
-social.trades.history.head Trade History ({0})
-social.trades.decline Decline All
-social.trades.message ENABLE TRADE MESSAGES IN SETTINGS
-social.trades.warning You get no items from this trade!
-social.trades.accept Are you sure you want to accept this offer?
+item.view.open 打开模型浏览器
+item.view.more 更多信息
+item.sell.cant 该物品不可被出售
+item.sell.quick 您确定您要闪售｛0｝吗？
+social.profile.stats 总战绩
+social.profile.class 各角色战绩
+social.profile.sales 该用户正在销售的物品
+social.profile.sales.market 物品销售历史
+social.profile.skins Skins 该用户制作了[{0}]皮肤
+social.profile.skins.none 该用户并没有制作任何皮肤
+social.profile.games 该用户发布了[{0}]个地图
+social.profile.games.none 该用户并没有发布任何地图
+social.profile.assets 该用户制作了[{0}]个插件
+social.profile.assets.none 该用户并没有制作任何插件
+social.profile.mods 该用户制作了了[{0}]个模组
+social.profile.mods.none 该用户制作了[{0}]个模组
+social.search 搜索结果
+social.market.stats.rare 目前最稀有的物品
+social.market.stats.circulation 已经被发行
+social.market.stats.units 个单位
+social.trades.in 受到的交易请求
+social.trades.in.head 受到了({0})个交易请求
+social.trades.out 发出请求
+social.trades.out.head 已发出了({0})个交易请求
+social.trades.history 交易历史
+social.trades.history.head 交易历史({0})
+social.trades.decline 全部拒绝
+social.trades.message 请在设置中开启交易信息
+social.trades.warning 您在此交易中不会受到任何物品！
+social.trades.accept 您确定您要接受该交易吗？
 `;
